@@ -19,3 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joão-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/joão-victor-a757a927b)
 [![Email](https://img.shields.io/badge/Email-joao.frenhani@gmail.com-darkgreen?style=for-the-badge&logo=gmail&logoColor=white)](joao.frenhani@gmail.com)
+
+## 📚 Studies 
+
+- Studying data science at EBAC
