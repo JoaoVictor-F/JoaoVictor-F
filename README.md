@@ -1,26 +1,21 @@
-## Prazer, me chamo João Victor!
-name: Generate Datas
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#800080&height=120&section=header"/>
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+José+Netto;I'm+27+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: JoaoVictor
-          svg_out_path: dist/github-contribution-grid-snake.svg
+## 🚀 Main Skills and Tools
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+### 🧠 Data Science & Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & IDEs
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Netto-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/joão-victor-a757a927b)
+[![Email](https://img.shields.io/badge/Email-jrnetto.netto@gmail.com-darkgreen?style=for-the-badge&logo=gmail&logoColor=white)](joao.frenhani@gmail.com)
