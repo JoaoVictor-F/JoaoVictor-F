@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23800080&size=35&center=true&vCenter=true&width=1000&lines=,+My+name+is+João+Victor;I'm+20+years+old;I'm+from+Brazil;Data+Scientist;%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23800080&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+João+Victor;I'm+20+years+old;I'm+from+Brazil;Data+Scientist;%3A%29)](https://git.io/typing-svg)
 
 ## 🚀 Main Skills and Tools
 
